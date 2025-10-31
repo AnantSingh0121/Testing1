@@ -1,0 +1,9 @@
+date,region,product,quantity,revenue
+2025-10-01,North,Laptop,10,9000
+2025-10-01,South,Phone,15,7500
+2025-10-02,East,Tablet,8,6400
+2025-10-02,West,Laptop,5,4500
+2025-10-03,North,Phone,20,10000
+2025-10-03,East,Laptop,12,10800
+2025-10-04,South,Tablet,10,8000
+2025-10-05,West,Phone,18,9000
