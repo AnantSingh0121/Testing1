@@ -1,0 +1,20 @@
+{
+  "dataset": "sales_data.csv",
+  "scripts": [
+    {
+      "name": "Sales Summary",
+      "file": "sales_summary.py",
+      "type": "analysis"
+    },
+    {
+      "name": "Revenue Visualization",
+      "file": "sales_visualization.py",
+      "type": "visualization"
+    }
+  ],
+  "schedule": "manual",
+  "notifications": {
+    "webhook": "https://webhook.site/your-webhook-id",
+    "email": "yourname@example.com"
+  }
+}
